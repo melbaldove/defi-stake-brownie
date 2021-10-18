@@ -1,0 +1,9 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+front_end/node_modules
+front_end/src/brownie-config.json
+front_end/src/chain-info
